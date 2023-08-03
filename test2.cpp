@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include <vector>
 using namespace std;
 
 void return_money(int* a,int * cash, int sdatha)
